@@ -116,6 +116,10 @@ See the [Odigos docs](https://docs.odigos.io/intro) for the full steps on debugg
 ### How to Build and run Odigos Frontend Locally
 
 - go to `frontend/webapp`
+- install
+```
+  npm install
+```
 - run:
 
 ```
